@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-20T03:36:55.906Z</updated>
+  <updated>2021-11-06T07:56:08.785Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo_usage</title>
+    <link href="http://example.com/2021/11/06/hexo-usage/"/>
+    <id>http://example.com/2021/11/06/hexo-usage/</id>
+    <published>2021-11-06T07:53:44.000Z</published>
+    <updated>2021-11-06T07:56:08.785Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这是hexo的核心命令"><a href="#这是hexo的核心命令" class="headerlink" title="这是hexo的核心命令"></a>这是hexo的核心命令</h2><h3 id="1-创建新文章"><a href="#1-创建新文章" class="headerlink" title="1.创建新文章"></a>1.创建新文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new xxx</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;这是hexo的核心命令&quot;&gt;&lt;a href=&quot;#这是hexo的核心命令&quot; class=&quot;headerlink&quot; title=&quot;这是hexo的核心命令&quot;&gt;&lt;/a&gt;这是hexo的核心命令&lt;/h2&gt;&lt;h3 id=&quot;1-创建新文章&quot;&gt;&lt;a href=&quot;#1-创建新文章&quot; c</summary>
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>latex1</title>
+    <link href="http://example.com/2021/11/06/latex1/"/>
+    <id>http://example.com/2021/11/06/latex1/</id>
+    <published>2021-11-06T07:53:29.000Z</published>
+    <updated>2021-11-06T08:03:08.095Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="history"><a href="#history" class="headerlink" title="history"></a>history</h2><p>到了临近做毕业论文的时候，想想应该还是接触一下latex。不同于其他语言丰富的应用场景，latex似乎只是在需要写论文的时候才会用得到。再加上latex令人生畏的巨大安装包，初学者，包括曾经的我对latex有一种天然的抵触感，所以一直也没有认真学。但是总感觉不会latex的大学生活是不完整的，于是就想要做一份latex的教程，供以后的同学们作为参考</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;history&quot;&gt;&lt;a href=&quot;#history&quot; class=&quot;headerlink&quot; title=&quot;history&quot;&gt;&lt;/a&gt;history&lt;/h2&gt;&lt;p&gt;到了临近做毕业论文的时候，想想应该还是接触一下latex。不同于其他语言丰富的应用场景，latex似</summary>
+      
+    
+    
+    
+    <category term="latex" scheme="http://example.com/categories/latex/"/>
+    
+    
+    <category term="latex" scheme="http://example.com/tags/latex/"/>
+    
+  </entry>
   
   <entry>
     <title>JS红宝书第二章</title>
